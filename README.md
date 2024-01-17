@@ -3,7 +3,7 @@
 <header>
  <details>
  <summary><h2>  Chapter 1: Digital Logic Overview</h2>
-  <h3><p> <img align="left" width="50%" src="https://i.ytimg.com/vi/6KHsNPQYb30/maxresdefault.jpg" /> </p>
+  <h3><p> </p>
  </h3></summary>
  
 <summary>Overview:</summary>
@@ -13,7 +13,7 @@
 
 <details>
  <summary><h2> Chapter 2: Number Systems and Codes
- <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR18TJOQ_C7wFvegAbG2tknAXMwtGFN2SVmQA&usqp=CAU" /></p>
+ <p> <img " /></p>
  </h2></summary>
 
 <summary>Overview:</summary>
